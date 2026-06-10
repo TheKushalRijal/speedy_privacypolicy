@@ -1,6 +1,7 @@
-Privacy Policy
+Digital Speedometer HUD
+Privacy Policy for mobile app : Digital Speedometer HUD
 
-Last updated: May 2026
+Last updated: June 10 2026
 
 This app is designed to work completely offline.
 
